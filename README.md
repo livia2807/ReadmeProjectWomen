@@ -32,10 +32,8 @@ Este projeto não possui dependências externas.
 
 1. Baixe ou clone este repositório:
 2. git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO ==== ARRUMAR DEPOIS
-3. 
-4. Acesse a pasta do projeto
-
-3. Abra o arquivo `index.html` em um navegador
+3. Acesse a pasta do projeto
+4. Abra o arquivo `index.html` em um navegador
 
 ---
 
