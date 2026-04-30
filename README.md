@@ -69,6 +69,11 @@ Caso o site não abra corretamente:
 
 ---
 
+ 
+## ° Preview do projeto
+
+ <img width="1871" height="906" alt="image" src="https://github.com/user-attachments/assets/be11b2f9-49e8-4f61-be09-bf15dedee118" />
+
 ##  ° Desenvolvedores
 - Maria Dulce  
 - Laura Horiy  
