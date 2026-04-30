@@ -1,4 +1,4 @@
-# MULHERES NA COMPUTAÇÃO 🖥️
+<h1 style="color: #9b3d4a;">MULHERES NA COMPUTAÇÃO 🖥️</h1>
 
 ##  ° Descrição do projeto
 Este projeto foi desenvolvido com o objetivo de conscientizar as pessoas sobre a importância das mulheres na computação.  
@@ -65,7 +65,7 @@ Caso o site não abra corretamente:
 ---
 
 ##  ° Tarefas em aberto
-- Adicionar mais biografias  
+- Adicionar mais biografias de mulheres importantes
 
 ---
 
